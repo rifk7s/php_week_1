@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-7.4%2B-8892BF?style=plastic&logo=php" alt="PHP version" />
   <a href="https://www.apachefriends.org/" title="XAMPP"><img src="https://img.shields.io/badge/XAMPP-LocalServer-FF9900?style=plastic&logo=xampp" alt="XAMPP" /></a>
-  <img src="https://img.shields.io/badge/Status-Learning-lightgrey?style=plastic" alt="status" />
+  
 </p>
 
 A small collection of PHP exercises and example files used for learning basic PHP concepts.
